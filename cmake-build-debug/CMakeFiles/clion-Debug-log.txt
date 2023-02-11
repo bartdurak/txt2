@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/fed36/Zoho WorkDrive (pbud)/My Folders/CLionProjects/pliktxyt Select CMakeLists.txt
